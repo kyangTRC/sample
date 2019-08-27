@@ -1,5 +1,5 @@
 <Response status="success">
-    <Results datasource="SS.Prop.ParcelDetail/ParcelDetail" recordFrom="0" recordTo="659" totalRecords="659" xMin="-103.109988" yMin="31.08664" xMax="-102.233384" yMax="31.287925">
+    <Results datasource="SS.Prop.ParcelDetail/ParcelDetail" recordFrom="0" recordTo="1714" totalRecords="1714" xMin="-103.109988" yMin="31.08664" xMax="-102.233384" yMax="31.287925">
         <Schema id="RowsetSchema">
             <ElementType name="Row">
                 <AttributeType name="_DMP_ID" script="">
