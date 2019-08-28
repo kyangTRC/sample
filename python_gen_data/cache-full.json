@@ -1,89 +1,5 @@
 {
-  "Response": {
-    "-status": "success",
-    "parsererror": {
-      "-style": "display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black",
-      "h3": [
-        "This page contains the following errors:",
-        "Below is a rendering of the page up to the first error."
-      ],
-      "div": {
-        "-style": "font-family:monospace;font-size:12px",
-        "#text": "error on line 1761 at column 304: Opening and ending tag mismatch: Data line 0 and Results
-"
-      }
-    },
-    "Results": {
-      "-datasource": "SS.Prop.ParcelDetail/ParcelDetail",
-      "-recordFrom": "0",
-      "-recordTo": "1714",
-      "-totalRecords": "1714",
-      "-xMin": "-103.109988",
-      "-yMin": "31.08664",
-      "-xMax": "-102.233384",
-      "-yMax": "31.287925",
-      "Schema": {
-        "-id": "RowsetSchema",
-        "ElementType": {
-          "-name": "Row",
-          "AttributeType": [
-            {
-              "-name": "_DMP_ID",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "PROP_ADDRESS",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "SITE_CITY",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "SITE_STATE",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "SITE_ZIP",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "COUNTY",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "APN",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "LOCATION_ID",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "OWNER_NAME_1",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "MAIL_ADDR",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "MAIL_STATE",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "MAIL_CITY",
-              "Datatype": { "-type": "string" }
-            },
-            {
-              "-name": "MAIL_ZIP",
-              "Datatype": { "-type": "string" }
-            }
-          ]
-        }
-      },
-      "Data": {
-        "Row": [
+ "Row": [
           {
             "-_DMP_ID": "514042653_4701",
             "-SITE_STATE": "TX",
@@ -24067,7 +23983,4 @@
             "-MAIL_ZIP": "77371"
           }
         ]
-      }
-    }
-  }
 }
