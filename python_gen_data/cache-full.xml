@@ -1764,6 +1764,5 @@
         <Schema id="RowsetSchema">
             <ElementType name="Row" />
         </Schema>
-        <Data />
     </Summary>
 </Response>
